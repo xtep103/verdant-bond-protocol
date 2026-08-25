@@ -7,13 +7,12 @@ node_modules/
 dist/
 
 # Environment
-.env
 
 # IDE
-.vscode/
 .idea/
 *.swp
 *.swo
+temp_auto_push.bat
 *~
 
 # OS
@@ -30,3 +29,6 @@ build/
 
 # Angular cache
 **/.angular/cache/
+.gitignore
+branch_structure.json
+config.bat
